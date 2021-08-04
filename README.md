@@ -4,7 +4,7 @@ This C code implements a B+ tree. Implemented operations are INSERT, SELECT and 
 ## Input format
 > Tree order
 
-> Quantidade de arquivos(n)
+> Quantity of files(n) to be inserted
 
 > Name1 Size1 Hash1
 
@@ -12,7 +12,7 @@ This C code implements a B+ tree. Implemented operations are INSERT, SELECT and 
 
 > NameN SizeN HashN
 
-> Number of operations(m)
+> Number of operations(m) to be done
 
 > Operation 1
 
